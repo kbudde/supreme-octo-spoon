@@ -1,0 +1,1 @@
+FROM docker.io/library/alpine@sha256:1f66b8f3041ef8575260056dedd437ed94e7bfeea142ee39ff0d795f94ff2287
